@@ -1,5 +1,6 @@
 # designPattern
 Java Code로 보는 디자인 패턴 입니다.
+각 디자인 패턴들의 제목을 클릭하시면 해당 패턴의 코드 디렉토리로 이동합니다.
 
 # [Strategy Pattern](https://github.com/gahuileeee/designPattern/tree/main/src/StragePattern) 
 
