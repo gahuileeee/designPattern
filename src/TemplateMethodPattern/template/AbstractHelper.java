@@ -13,7 +13,7 @@ public abstract class AbstractHelper {
 
     protected abstract void end();
 
-    public void templateMethod() throws IOException {
+    public final void templateMethod() throws IOException {
         visit();
         menu();
         String orderStr = order();
