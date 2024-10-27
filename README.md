@@ -13,4 +13,4 @@ Java Code로 보는 디자인 패턴 입니다.
 
 # [Adapter Pattern](https://github.com/gahuileeee/designPattern/tree/main/src/adpaterPattern)
 호환되지 않는 인터페이스들을 연결하는 패턴으로, 기존 클래스 수정 없이 호환되지 않는 인터페이스들을 사용할 수 있도록 해 준다. 
-자세한 내용은 [이곳](https://stream-roll-003.notio호n.site/Adapter-Pattern-12c5a273c91d800c96f3e7b5ec5f749b)울 첨조.
+자세한 내용은 [이곳](https://stream-roll-003.notio호n.site/Adapter-Pattern-12c5a273c91d800c96f3e7b5ec5f749b)을 첨조.
