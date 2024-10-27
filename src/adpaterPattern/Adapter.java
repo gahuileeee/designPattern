@@ -17,7 +17,7 @@ public class Adapter implements ClientInterface {
 
     @Override
     public void sort() {
-        bCompany.sort();
+        bCompany.sort(true);
     }
 
     @Override

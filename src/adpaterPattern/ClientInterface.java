@@ -1,7 +1,6 @@
 package adpaterPattern;
 
-import java.util.List;
-
+//client가 사용할 인터페이스이다.
 public interface ClientInterface {
     public void start();
     public void sort();

@@ -1,8 +1,5 @@
 package adpaterPattern;
 
-import java.util.Comparator;
-import java.util.List;
-
 public class ACompany {
     public void start(){
         System.out.println("List 정렬을 시작합니다.");
