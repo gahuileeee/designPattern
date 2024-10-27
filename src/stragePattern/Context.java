@@ -1,4 +1,4 @@
-package StragePattern;
+package stragePattern;
 
 public class Context {
     StragePatternInterfaceAndImpl.Animal animal;

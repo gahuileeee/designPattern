@@ -1,7 +1,7 @@
-package TemplateMethodPattern.main;
+package templateMethodPattern.main;
 
-import TemplateMethodPattern.template.AbstractHelper;
-import TemplateMethodPattern.template.DefaultHelper;
+import templateMethodPattern.template.AbstractHelper;
+import templateMethodPattern.template.DefaultHelper;
 
 import java.io.IOException;
 

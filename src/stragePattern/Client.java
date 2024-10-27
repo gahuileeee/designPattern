@@ -1,4 +1,4 @@
-package StragePattern;
+package stragePattern;
 
 public class Client {
     public static void main(String[] args) {

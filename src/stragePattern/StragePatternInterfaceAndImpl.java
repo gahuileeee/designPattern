@@ -1,4 +1,4 @@
-package StragePattern;
+package stragePattern;
 
 public class StragePatternInterfaceAndImpl {
     public interface Animal{

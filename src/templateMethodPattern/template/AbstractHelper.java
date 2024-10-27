@@ -1,8 +1,6 @@
-package TemplateMethodPattern.template;
+package templateMethodPattern.template;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 public abstract class AbstractHelper {
     protected abstract void visit();
