@@ -1,6 +1,6 @@
 # designPattern
 Java Code로 보는 디자인 패턴 입니다.
-<bold>각 디자인 패턴들의 제목을 클릭하시면 해당 패턴의 코드 디렉토리로 이동합니다.</bold>
+**각 디자인 패턴들의 제목을 클릭하시면 해당 패턴의 코드 디렉토리로 이동합니다.**
 각 패턴들에 대한 설명은 [노션](https://www.notion.so/11a5a273c91d81f98ed6e62a7bbace36?v=11a5a273c91d81fabf2a000cfb76678e)을 참조해 주십시오.
 
 # [Strategy Pattern](https://github.com/gahuileeee/designPattern/tree/main/src/StragePattern) 
