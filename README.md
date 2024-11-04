@@ -14,3 +14,7 @@ Java Code로 보는 디자인 패턴 입니다.
 # [Adapter Pattern](https://github.com/gahuileeee/designPattern/tree/main/src/adpaterPattern)
 호환되지 않는 인터페이스들을 연결하는 패턴으로, 기존 클래스 수정 없이 호환되지 않는 인터페이스들을 사용할 수 있도록 해 준다. 
 자세한 내용은 [이곳](https://stream-roll-003.notion.site/Adapter-Pattern-12c5a273c91d800c96f3e7b5ec5f749b)을 참조.
+
+# [Factory Method Pattern](https://github.com/gahuileeee/designPattern/tree/main/src/factoryMethodPattern)
+객체 생성을 factory class를 이용해 캡슐화하여 생성 처리하는 패턴으로, 객체 생성 전/후에 일어나는 처리들을 하나의 패턴으로 만들어 처리할 수 있다.
+자세한 내용은 [이곳](https://stream-roll-003.notion.site/Factory-method-pattern-1325a273c91d8033b98afaa7305c95fb)을 참조.
